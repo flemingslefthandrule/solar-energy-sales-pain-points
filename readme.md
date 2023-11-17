@@ -1,6 +1,6 @@
 <b>Industry : </b> Energy
 
-<b>Department : </b>Sales pp
+<b>Department : </b>Sales pain point
 
 <b>Causes : </b>
 - High upfront cost
