@@ -16,4 +16,4 @@ this might be due to the reasons below.
 
 out of these, one of them can be solved using aiml; high upfront costs.
 
-<b>Solution : </b>high upfront costs can be reduced using acurate prediction by knowing the major factors which effect the cost and working on reducing them.
+<b>Solution : </b>high upfront costs can be reduced using accurate prediction by knowing the major factors which effect the cost and working on reducing them.
