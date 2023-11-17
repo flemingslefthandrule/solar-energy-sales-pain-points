@@ -2,18 +2,10 @@
 
 <b>Department : </b>Sales pp
 
+<b>Causes : </b>
+- High upfront cost
+- Complex Financing Options
+- Uncertain Return on Investment (ROI)
 
-## problem statement :
-
-solar panels have low sales 
-```py
-this might be due to the reasons below.
-
-- high upfront costs 
-- no incentives from the government
-- concerns about efficiency
-- lack of awareness
-```
-out of these, one of them can be solved using aiml; high upfront costs.
-
-<b>Solution : </b>in some cases the estimation upfront cost is high due to improper estimation techniques. these techniques can be enhanced using ml algorithms
+<br>Problem Statement : </b>
+In solar panel sales, High upfront cost and Uncertain Return on Investment (ROI) are some major problems, one of the major cause of these problems is inaccurete prediction techniques, the accurate prediction of upfront cost using ml model will eventually reduce the upfront cost, and the ROI projection can also be predicted accurately.
