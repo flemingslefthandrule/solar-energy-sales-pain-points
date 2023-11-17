@@ -1,6 +1,6 @@
-**Industry : **Energy
+<b>Industry : </b> Energy
 
-**Department : **Sales pp
+<b>Department : </b>Sales pp
 
 
 ## problem statement :
@@ -16,4 +16,4 @@ this might be due to the reasons below.
 
 out of these, one of them can be solved using aiml; high upfront costs.
 
-**Solution : **high upfront costs can be reduced using acurate prediction by knowing the major factors which effect the cost and working on reducing them.
+<b>Solution : </b>high upfront costs can be reduced using acurate prediction by knowing the major factors which effect the cost and working on reducing them.
