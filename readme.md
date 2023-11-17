@@ -7,5 +7,5 @@
 - Complex Financing Options
 - Uncertain Return on Investment (ROI)
 
-<br>Problem Statement : </b>
+<b>Problem Statement : </b>
 In solar panel sales, High upfront cost and Uncertain Return on Investment (ROI) are some major problems, one of the major cause of these problems is inaccurete prediction techniques, the accurate prediction of upfront cost using ml model will eventually reduce the upfront cost, and the ROI projection can also be predicted accurately.
